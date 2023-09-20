@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=30&duration=3000&pause=400&color=FCAB00&center=true&multiline=true&width=600&height=150&lines=Hello+World!+I'm+Roman.;Welcome+to+my+GitHub+profile.;I+am+a+novice+frontend+developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=30&duration=3000&pause=400&color=FCAB00&center=true&multiline=true&width=1000&height=150&lines=Hello+World!+I'm+Roman.;Welcome+to+my+GitHub+profile.;I+am+a+novice+frontend+developer.)](https://git.io/typing-svg)
