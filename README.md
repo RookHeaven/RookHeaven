@@ -2,7 +2,7 @@
 
 <hr/>
 
-<h3 style="color:FCAB00">My techs ⚙️</h3>
+<h3 style="color:#FCAB00">My techs ⚙️</h3>
 <div>
     <img src='img/icons/HTML.svg' title='HTML' alt='HTML' width='40'>&nbsp;&nbsp;
     <img src='img/icons/CSS.svg' title='CSS' alt='CSS' width='40'>&nbsp;&nbsp;
@@ -29,7 +29,7 @@
 
 <hr/>
 
-<h3 style="color:FCAB00">My projects 📚</h3>
+<h3 style="color:#FCAB00">My projects 📚</h3>
 
  ```sh
  WEBSITES 
