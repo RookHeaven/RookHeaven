@@ -4,15 +4,19 @@
 
 <h3 style="color:orange">My techs ⚙️</h3>
 <div>
+    <img src='img/icons/React.svg' title='React' alt='React' width='40'>&nbsp;&nbsp;
+    <img src='img/icons/React-Router.svg' title='React-Router' alt='React-Router' width='40'>&nbsp;&nbsp;
+    <img src='img/icons/Redux.svg' title='Redux' alt='Redux' width='40'>&nbsp;&nbsp;
+    <img src='img/icons/Typescript.svg' title='Typescript' alt='Typescript' width='40'>&nbsp;&nbsp;
+    <img src='img/icons/Javascript.svg' title='JavaScript' alt='JavaScript' width='40'>&nbsp;&nbsp;
     <img src='img/icons/HTML.svg' title='HTML' alt='HTML' width='40'>&nbsp;&nbsp;
+    <img src='img/icons/PUG.svg' title='PUG' alt='PUG' width='40'>&nbsp;&nbsp;
     <img src='img/icons/CSS.svg' title='CSS' alt='CSS' width='40'>&nbsp;&nbsp;
     <img src='img/icons/Less.svg' title='Less' alt='Less' width='45'>&nbsp;&nbsp;
     <img src='img/icons/SASS.svg' title='SASS / SCSS' alt='SASS / SCSS' width='40'>&nbsp;&nbsp;
-    <img src='img/icons/Javascript.svg' title='JavaScript' alt='JavaScript' width='40'>&nbsp;&nbsp;
     <img src='img/icons/Webpack.svg' title='Webpack' alt='Webpack' width='40'>&nbsp;&nbsp;
     <img src='img/icons/Gulp.svg' title='Gulp' alt='Gulp' width='40'>&nbsp;&nbsp;
     <img src='img/icons/Git.svg' title='Git' alt='Git' width='40'>&nbsp;&nbsp;
-    <img src='img/icons/PUG.svg' title='PUG' alt='PUG' width='40'>&nbsp;&nbsp;
     <br/><br/>
     <img src='img/icons/Figma.svg' title='Figma' alt='Figma' width='40'>&nbsp;&nbsp;
     <img src='img/icons/Adobe_Photoshop_CC.svg' title='Photoshop' alt='Photoshop' width='40'>&nbsp;&nbsp;
