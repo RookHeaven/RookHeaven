@@ -14,6 +14,7 @@
     <img src='img/icons/CSS.svg' title='CSS' alt='CSS' width='40'>&nbsp;&nbsp;
     <img src='img/icons/Less.svg' title='Less' alt='Less' width='45'>&nbsp;&nbsp;
     <img src='img/icons/SASS.svg' title='SASS / SCSS' alt='SASS / SCSS' width='40'>&nbsp;&nbsp;
+    <img src='img/icons/Vite.svg' title='Vite' alt='Vite' width='40'>&nbsp;&nbsp;
     <img src='img/icons/Webpack.svg' title='Webpack' alt='Webpack' width='40'>&nbsp;&nbsp;
     <img src='img/icons/Gulp.svg' title='Gulp' alt='Gulp' width='40'>&nbsp;&nbsp;
     <img src='img/icons/Git.svg' title='Git' alt='Git' width='40'>&nbsp;&nbsp;
