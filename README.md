@@ -2,7 +2,7 @@
 
 <hr/>
 
-<h2 style="color:orange">My techs ⚙️</h2>
+<h2>My techs ⚙️</h2>
 <div>
     <img src='img/icons/React.svg' title='React' alt='React' width='40'>&nbsp;&nbsp;
     <img src='img/icons/React-Router.svg' title='React-Router' alt='React-Router' width='40'>&nbsp;&nbsp;
@@ -34,7 +34,7 @@
 
 <hr/>
 
-<h2><span style="color:orange">My projects</span>📚</h2>
+<h2>My projects📚</h2>
 
 <h3>Web Applications</h3>
 
